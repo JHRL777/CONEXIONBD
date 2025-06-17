@@ -74,6 +74,10 @@ INSERT INTO horarios (fecha_inicio, fecha_fin) VALUES ('2025-05-16 16:00:00', '2
 -- Insertando un horario que comienza a las 5:00 PM y termina a las 6:00 PM
 INSERT INTO horarios (fecha_inicio, fecha_fin) VALUES ('2025-05-16 17:00:00', '2025-05-16 18:00:00');
 
+INSERT INTO horarios (fecha_inicio, fecha_fin) VALUES ('2025-05-16 17:00:00', '2025-05-16 18:00:00');
+
+INSERT INTO horarios (fecha_inicio, fecha_fin) VALUES ('2025-05-16 17:00:00', '2025-05-16 18:00:00');
+
 
 
 
@@ -82,7 +86,5 @@ INSERT INTO horario_curso (curso_id, horario_id) VALUES (1, 2);
 INSERT INTO horario_curso (curso_id, horario_id) VALUES (2, 3);
 INSERT INTO horario_curso (curso_id, horario_id) VALUES (2, 4);
 INSERT INTO horario_curso (curso_id, horario_id) VALUES (3, 5);
-INSERT INTO horario_curso (curso_id, horario_id) VALUES (3, 1);
-INSERT INTO horario_curso (curso_id, horario_id) VALUES (4, 2);
 INSERT INTO horario_curso (curso_id, horario_id) VALUES (3, 1);
 INSERT INTO horario_curso (curso_id, horario_id) VALUES (4, 2);
