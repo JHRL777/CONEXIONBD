@@ -84,3 +84,5 @@ INSERT INTO horario_curso (curso_id, horario_id) VALUES (2, 4);
 INSERT INTO horario_curso (curso_id, horario_id) VALUES (3, 5);
 INSERT INTO horario_curso (curso_id, horario_id) VALUES (3, 1);
 INSERT INTO horario_curso (curso_id, horario_id) VALUES (4, 2);
+INSERT INTO horario_curso (curso_id, horario_id) VALUES (3, 1);
+INSERT INTO horario_curso (curso_id, horario_id) VALUES (4, 2);
